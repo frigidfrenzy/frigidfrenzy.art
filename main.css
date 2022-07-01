@@ -1,0 +1,20 @@
+body {
+    margin: 50px auto;
+    max-width: 500px;
+
+    background-color: #223;
+    color: #ddf;
+    line-height: 1.2;
+}
+
+h1 {
+    font-family: Courier, monospace;
+    font-size: 32px;
+    font-weight: 100;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
